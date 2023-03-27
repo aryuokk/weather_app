@@ -1,1 +1,4 @@
-weatherAPI = "ac53bfd4f3304c65a62103932232703"
+# Enter you weather api key here
+# Get it from weatherapi.com
+
+weatherAPI = ""
